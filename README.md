@@ -1,4 +1,4 @@
-##  Que tal um README bem legal pra sua aplicação? 
+## Desvendando Atletas - imersão Dev com Google Gemini
 
 **Olha só que massa esse projeto!** 
 
